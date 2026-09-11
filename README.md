@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0067-add-binary) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0557-reverse-words-in-a-string-iii) |
 | [2810-faulty-keyboard](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/2810-faulty-keyboard) |
 ## Array
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0258-add-digits) |
 | [2235-add-two-integers](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/2235-add-two-integers) |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/2481-minimum-cuts-to-divide-a-circle) |
@@ -42,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0258-add-digits) |
 | [2810-faulty-keyboard](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/2810-faulty-keyboard) |
 ## Number Theory
@@ -52,4 +55,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3536-maximum-product-of-two-digits](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/3536-maximum-product-of-two-digits) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
