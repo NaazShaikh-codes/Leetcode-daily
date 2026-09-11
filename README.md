@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0557-reverse-words-in-a-string-iii](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0557-reverse-words-in-a-string-iii) |
+| [2810-faulty-keyboard](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/2810-faulty-keyboard) |
 ## Array
 |  |
 | ------- |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0258-add-digits) |
+| [2810-faulty-keyboard](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/2810-faulty-keyboard) |
 ## Number Theory
 |  |
 | ------- |
