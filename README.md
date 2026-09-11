@@ -25,4 +25,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/3483-unique-3-digit-even-numbers) |
+## Math
+|  |
+| ------- |
+| [2235-add-two-integers](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/2235-add-two-integers) |
 <!---LeetCode Topics End-->
