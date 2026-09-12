@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0231-power-of-two) |
+| [0338-counting-bits](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0338-counting-bits) |
 ## Binary Search
 |  |
 | ------- |
@@ -185,4 +186,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/1480-running-sum-of-1d-array) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0338-counting-bits](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0338-counting-bits) |
 <!---LeetCode Topics End-->
