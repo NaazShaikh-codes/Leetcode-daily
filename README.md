@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0027-remove-element) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0557-reverse-words-in-a-string-iii) |
 ## String
 |  |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0014-longest-common-prefix) |
+| [0027-remove-element](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0027-remove-element) |
 | [0628-maximum-product-of-three-numbers](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0628-maximum-product-of-three-numbers) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3483-unique-3-digit-even-numbers](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/3483-unique-3-digit-even-numbers) |
