@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0027-remove-element) |
 | [0628-maximum-product-of-three-numbers](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0628-maximum-product-of-three-numbers) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0013-roman-to-integer) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3483-unique-3-digit-even-numbers](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/3483-unique-3-digit-even-numbers) |
