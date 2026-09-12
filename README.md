@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0013-roman-to-integer) |
 | [0058-length-of-last-word](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0067-add-binary) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0013-roman-to-integer) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3483-unique-3-digit-even-numbers](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/3483-unique-3-digit-even-numbers) |
 ## Recursion
@@ -35,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0013-roman-to-integer) |
 | [0067-add-binary](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0069-sqrtx) |
 | [0258-add-digits](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0258-add-digits) |
