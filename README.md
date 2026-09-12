@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0009-palindrome-number) |
 | [0067-add-binary](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0069-sqrtx) |
 | [0258-add-digits](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0258-add-digits) |
 | [0628-maximum-product-of-three-numbers](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0628-maximum-product-of-three-numbers) |
 | [2235-add-two-integers](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/2235-add-two-integers) |
@@ -64,4 +65,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0067-add-binary) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0069-sqrtx) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
