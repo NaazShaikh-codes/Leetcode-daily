@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0125-valid-palindrome) |
+| [0202-happy-number](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0283-move-zeroes) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0557-reverse-words-in-a-string-iii) |
 | [1768-merge-strings-alternately](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/1768-merge-strings-alternately) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0049-group-anagrams) |
+| [0202-happy-number](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0242-valid-anagram) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/2956-find-common-elements-between-two-arrays) |
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0069-sqrtx) |
+| [0202-happy-number](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0258-add-digits) |
 | [0628-maximum-product-of-three-numbers](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0628-maximum-product-of-three-numbers) |
@@ -161,4 +164,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0191-number-of-1-bits) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
