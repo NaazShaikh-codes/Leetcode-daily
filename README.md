@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0027-remove-element) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0557-reverse-words-in-a-string-iii) |
 ## String
 |  |
@@ -12,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0020-valid-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0067-add-binary) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -95,4 +97,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0020-valid-parentheses) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Z Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
