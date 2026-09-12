@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0136-single-number) |
+| [0191-number-of-1-bits](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0191-number-of-1-bits) |
 ## Binary Search
 |  |
 | ------- |
@@ -153,4 +154,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
