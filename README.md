@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0136-single-number) |
+| [0274-h-index](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0283-move-zeroes) |
 | [0628-maximum-product-of-three-numbers](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0628-maximum-product-of-three-numbers) |
 | [0724-find-pivot-index](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0724-find-pivot-index) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0242-valid-anagram) |
+| [0274-h-index](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0274-h-index) |
 | [0628-maximum-product-of-three-numbers](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0628-maximum-product-of-three-numbers) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [3536-maximum-product-of-two-digits](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/3536-maximum-product-of-two-digits) |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0274-h-index](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0274-h-index) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Divide and Conquer
 |  |
