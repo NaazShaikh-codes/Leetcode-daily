@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/1929-concatenation-of-array) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3232-find-if-digit-game-can-be-won](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3483-unique-3-digit-even-numbers](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/3483-unique-3-digit-even-numbers) |
 | [3701-compute-alternating-sum](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/3701-compute-alternating-sum) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0836-rectangle-overlap](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0836-rectangle-overlap) |
 | [2235-add-two-integers](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/2235-add-two-integers) |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/2481-minimum-cuts-to-divide-a-circle) |
+| [3232-find-if-digit-game-can-be-won](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/3536-maximum-product-of-two-digits) |
 ## Geometry
