@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0078-subsets) |
+| [0135-candy](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0136-single-number) |
 | [0274-h-index](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0283-move-zeroes) |
@@ -203,4 +204,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0338-counting-bits](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0338-counting-bits) |
+## Greedy
+|  |
+| ------- |
+| [0135-candy](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0135-candy) |
 <!---LeetCode Topics End-->
