@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0035-search-insert-position) |
 | [0046-permutations](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0049-group-anagrams) |
+| [0055-jump-game](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0078-subsets) |
 | [0135-candy](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0135-candy) |
@@ -203,9 +204,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0055-jump-game) |
 | [0338-counting-bits](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0338-counting-bits) |
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0055-jump-game) |
 | [0135-candy](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0135-candy) |
 <!---LeetCode Topics End-->
