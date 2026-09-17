@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0344-reverse-string) |
+| [0415-add-strings](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0415-add-strings) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0657-robot-return-to-origin](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0657-robot-return-to-origin) |
 | [1678-goal-parser-interpretation](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/1678-goal-parser-interpretation) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0268-missing-number) |
+| [0415-add-strings](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0415-add-strings) |
 | [0628-maximum-product-of-three-numbers](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0836-rectangle-overlap) |
 | [2235-add-two-integers](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/2235-add-two-integers) |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0258-add-digits) |
+| [0415-add-strings](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0415-add-strings) |
 | [0657-robot-return-to-origin](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0657-robot-return-to-origin) |
 | [1929-concatenation-of-array](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/1929-concatenation-of-array) |
 | [2810-faulty-keyboard](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/2810-faulty-keyboard) |
