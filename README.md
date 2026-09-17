@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0485-max-consecutive-ones) |
 | [0575-distribute-candies](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0575-distribute-candies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0628-maximum-product-of-three-numbers) |
+| [0682-baseball-game](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0724-find-pivot-index) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0258-add-digits) |
 | [0415-add-strings](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0415-add-strings) |
 | [0657-robot-return-to-origin](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0657-robot-return-to-origin) |
+| [0682-baseball-game](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0682-baseball-game) |
 | [1929-concatenation-of-array](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/1929-concatenation-of-array) |
 | [2810-faulty-keyboard](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/2810-faulty-keyboard) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0042-trapping-rain-water) |
+| [0682-baseball-game](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0682-baseball-game) |
 ## Bracket Sequences
 |  |
 | ------- |
