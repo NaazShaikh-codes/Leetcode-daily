@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0027-remove-element](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0042-trapping-rain-water](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0189-rotate-array) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0035-search-insert-position) |
+| [0042-trapping-rain-water](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0055-jump-game) |
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0042-trapping-rain-water) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -243,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -273,4 +277,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
