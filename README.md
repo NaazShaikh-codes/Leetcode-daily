@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0046-permutations) |
+| [0048-rotate-image](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0066-plus-one) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0069-sqrtx) |
@@ -293,4 +295,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0042-trapping-rain-water) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
