@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0392-is-subsequence) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0557-reverse-words-in-a-string-iii) |
 | [1768-merge-strings-alternately](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/1768-merge-strings-alternately) |
 | [3992-rearrange-string-to-avoid-character-pair](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/3992-rearrange-string-to-avoid-character-pair) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0392-is-subsequence) |
 | [0415-add-strings](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0415-add-strings) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0657-robot-return-to-origin](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0657-robot-return-to-origin) |
@@ -257,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0264-ugly-number-ii](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0264-ugly-number-ii) |
 | [0338-counting-bits](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0338-counting-bits) |
+| [0392-is-subsequence](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0509-fibonacci-number) |
 ## Greedy
 |  |
