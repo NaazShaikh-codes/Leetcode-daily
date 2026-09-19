@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0415-add-strings) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0657-robot-return-to-origin](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0657-robot-return-to-origin) |
+| [0771-jewels-and-stones](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0771-jewels-and-stones) |
 | [1678-goal-parser-interpretation](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/1678-goal-parser-interpretation) |
 | [1768-merge-strings-alternately](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/1768-merge-strings-alternately) |
 | [2810-faulty-keyboard](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/2810-faulty-keyboard) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0268-missing-number) |
 | [0575-distribute-candies](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0575-distribute-candies) |
+| [0771-jewels-and-stones](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0771-jewels-and-stones) |
 | [1207-unique-number-of-occurrences](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/1207-unique-number-of-occurrences) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/2956-find-common-elements-between-two-arrays) |
