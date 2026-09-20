@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0392-is-subsequence) |
 | [0415-add-strings](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0415-add-strings) |
+| [0520-detect-capital](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0520-detect-capital) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0657-robot-return-to-origin](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0657-robot-return-to-origin) |
 | [0771-jewels-and-stones](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0771-jewels-and-stones) |
