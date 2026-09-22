@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0049-group-anagrams) |
+| [0051-n-queens](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0078-subsets) |
@@ -248,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0046-permutations](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0078-subsets) |
 ## Counting Sort
 |  |
@@ -332,4 +334,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0128-longest-consecutive-sequence) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
