@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1480-running-sum-of-1d-array](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/1480-running-sum-of-1d-array) |
+| [1748-sum-of-unique-elements](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/1748-sum-of-unique-elements) |
 | [1929-concatenation-of-array](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/1929-concatenation-of-array) |
 | [2404-most-frequent-even-element](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/2404-most-frequent-even-element) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/2956-find-common-elements-between-two-arrays) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0771-jewels-and-stones) |
 | [1207-unique-number-of-occurrences](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/1207-unique-number-of-occurrences) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1748-sum-of-unique-elements](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/1748-sum-of-unique-elements) |
 | [2404-most-frequent-even-element](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/2404-most-frequent-even-element) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3483-unique-3-digit-even-numbers](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/3483-unique-3-digit-even-numbers) |
@@ -257,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0274-h-index) |
 | [0347-top-k-frequent-elements](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0347-top-k-frequent-elements) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1748-sum-of-unique-elements](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/1748-sum-of-unique-elements) |
 | [2404-most-frequent-even-element](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/2404-most-frequent-even-element) |
 ## Divide and Conquer
 |  |
