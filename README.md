@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0628-maximum-product-of-three-numbers) |
 | [0682-baseball-game](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0724-find-pivot-index) |
+| [0739-daily-temperatures](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0739-daily-temperatures) |
 | [0905-sort-array-by-parity](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0905-sort-array-by-parity) |
 | [1207-unique-number-of-occurrences](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/1207-unique-number-of-occurrences) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0042-trapping-rain-water) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0682-baseball-game](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0682-baseball-game) |
+| [0739-daily-temperatures](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0739-daily-temperatures) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -336,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0042-trapping-rain-water) |
+| [0739-daily-temperatures](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0739-daily-temperatures) |
 ## Matrix
 |  |
 | ------- |
