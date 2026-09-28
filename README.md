@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0657-robot-return-to-origin](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0657-robot-return-to-origin) |
 | [0771-jewels-and-stones](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0771-jewels-and-stones) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1678-goal-parser-interpretation](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/1678-goal-parser-interpretation) |
 | [1768-merge-strings-alternately](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/1768-merge-strings-alternately) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -247,10 +248,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0682-baseball-game](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0739-daily-temperatures) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0020-valid-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## String Matching
 |  |
 | ------- |
