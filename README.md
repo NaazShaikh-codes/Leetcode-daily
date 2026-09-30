@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0189-rotate-array) |
+| [0217-contains-duplicate](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0274-h-index) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0128-longest-consecutive-sequence) |
 | [0202-happy-number](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0205-isomorphic-strings) |
+| [0217-contains-duplicate](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0242-valid-anagram) |
 | [0264-ugly-number-ii](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0268-missing-number) |
@@ -209,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0088-merge-sorted-array) |
+| [0217-contains-duplicate](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0274-h-index) |
