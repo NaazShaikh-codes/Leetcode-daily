@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1678-goal-parser-interpretation](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/1678-goal-parser-interpretation) |
 | [1768-merge-strings-alternately](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/1768-merge-strings-alternately) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [2810-faulty-keyboard](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/2810-faulty-keyboard) |
 | [3498-reverse-degree-of-a-string](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/3498-reverse-degree-of-a-string) |
@@ -382,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0003-longest-substring-without-repeating-characters) |
+| [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 ## Linked List
 |  |
 | ------- |
