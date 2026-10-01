@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0739-daily-temperatures) |
 | [0746-min-cost-climbing-stairs](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0746-min-cost-climbing-stairs) |
 | [0905-sort-array-by-parity](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0905-sort-array-by-parity) |
+| [1051-height-checker](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/1051-height-checker) |
 | [1207-unique-number-of-occurrences](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/1207-unique-number-of-occurrences) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0389-find-the-difference) |
 | [0628-maximum-product-of-three-numbers](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0628-maximum-product-of-three-numbers) |
 | [0905-sort-array-by-parity](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0905-sort-array-by-parity) |
+| [1051-height-checker](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/1051-height-checker) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [3536-maximum-product-of-two-digits](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/3536-maximum-product-of-two-digits) |
 | [3992-rearrange-string-to-avoid-character-pair](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/3992-rearrange-string-to-avoid-character-pair) |
@@ -292,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0274-h-index](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0274-h-index) |
 | [0347-top-k-frequent-elements](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0347-top-k-frequent-elements) |
+| [1051-height-checker](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/1051-height-checker) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1748-sum-of-unique-elements](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/1748-sum-of-unique-elements) |
 | [2404-most-frequent-even-element](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/2404-most-frequent-even-element) |
@@ -388,4 +391,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0002-add-two-numbers) |
+## Bubble Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->
