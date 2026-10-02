@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1678-goal-parser-interpretation](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/1678-goal-parser-interpretation) |
 | [1768-merge-strings-alternately](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/1768-merge-strings-alternately) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [1816-truncate-sentence](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/1816-truncate-sentence) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [2810-faulty-keyboard](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/2810-faulty-keyboard) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/1480-running-sum-of-1d-array) |
 | [1748-sum-of-unique-elements](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/1748-sum-of-unique-elements) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [1816-truncate-sentence](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/1816-truncate-sentence) |
 | [1929-concatenation-of-array](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/1929-concatenation-of-array) |
 | [2404-most-frequent-even-element](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/2404-most-frequent-even-element) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
