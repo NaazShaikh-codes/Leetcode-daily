@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0520-detect-capital](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0520-detect-capital) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0657-robot-return-to-origin](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0657-robot-return-to-origin) |
+| [0678-valid-parenthesis-string](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0678-valid-parenthesis-string) |
 | [0709-to-lower-case](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0771-jewels-and-stones) |
 | [0824-goat-latin](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0824-goat-latin) |
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0042-trapping-rain-water) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0678-valid-parenthesis-string](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0678-valid-parenthesis-string) |
 | [0682-baseball-game](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0739-daily-temperatures) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -277,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0022-generate-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0678-valid-parenthesis-string) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## String Matching
@@ -343,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0509-fibonacci-number) |
+| [0678-valid-parenthesis-string](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0678-valid-parenthesis-string) |
 | [0746-min-cost-climbing-stairs](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0746-min-cost-climbing-stairs) |
 ## Greedy
 |  |
@@ -350,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0135-candy) |
+| [0678-valid-parenthesis-string](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0678-valid-parenthesis-string) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
