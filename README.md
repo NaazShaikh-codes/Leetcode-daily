@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0035-search-insert-position) |
+| [0036-valid-sudoku](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0048-rotate-image) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0036-valid-sudoku](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0128-longest-consecutive-sequence) |
 | [0202-happy-number](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0202-happy-number) |
@@ -378,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0048-rotate-image) |
 ## Bucket Sort
 |  |
