@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0392-is-subsequence) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0242-valid-anagram) |
 | [0264-ugly-number-ii](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0268-missing-number) |
+| [0290-word-pattern](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0389-find-the-difference) |
