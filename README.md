@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0771-jewels-and-stones) |
 | [0824-goat-latin](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0824-goat-latin) |
 | [0856-score-of-parentheses](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0856-score-of-parentheses) |
+| [1021-remove-outermost-parentheses](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/1021-remove-outermost-parentheses) |
 | [1108-defanging-an-ip-address](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/1108-defanging-an-ip-address) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -285,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0739-daily-temperatures) |
 | [0856-score-of-parentheses](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0856-score-of-parentheses) |
+| [1021-remove-outermost-parentheses](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/1021-remove-outermost-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
@@ -294,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0022-generate-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0856-score-of-parentheses) |
+| [1021-remove-outermost-parentheses](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/1021-remove-outermost-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## String Matching
