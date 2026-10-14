@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3701-compute-alternating-sum](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/3701-compute-alternating-sum) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3875-construct-uniform-parity-array-i](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/3903-smallest-stable-index-i) |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1051-height-checker](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/1051-height-checker) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [3536-maximum-product-of-two-digits](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/3536-maximum-product-of-two-digits) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3992-rearrange-string-to-avoid-character-pair](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/3992-rearrange-string-to-avoid-character-pair) |
 ## Bit Manipulation
 |  |
@@ -382,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0135-candy) |
 | [0678-valid-parenthesis-string](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0678-valid-parenthesis-string) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
