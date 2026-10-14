@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0033-search-in-rotated-sorted-array) |
@@ -265,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0069-sqrtx) |
@@ -340,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0004-median-of-two-sorted-arrays) |
 | [0191-number-of-1-bits](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0191-number-of-1-bits) |
 | [0347-top-k-frequent-elements](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0347-top-k-frequent-elements) |
 ## Floyd's Cycle Finding Algorithm
