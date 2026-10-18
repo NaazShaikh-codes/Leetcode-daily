@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0739-daily-temperatures) |
 | [0746-min-cost-climbing-stairs](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0746-min-cost-climbing-stairs) |
+| [0867-transpose-matrix](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0867-transpose-matrix) |
 | [0905-sort-array-by-parity](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0905-sort-array-by-parity) |
 | [1051-height-checker](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/1051-height-checker) |
 | [1207-unique-number-of-occurrences](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/1207-unique-number-of-occurrences) |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0415-add-strings) |
 | [0657-robot-return-to-origin](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0682-baseball-game) |
+| [0867-transpose-matrix](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0867-transpose-matrix) |
 | [1929-concatenation-of-array](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/1929-concatenation-of-array) |
 | [2810-faulty-keyboard](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/2810-faulty-keyboard) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -427,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0048-rotate-image) |
+| [0867-transpose-matrix](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0867-transpose-matrix) |
 ## Bucket Sort
 |  |
 | ------- |
