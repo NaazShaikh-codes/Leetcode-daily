@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3232-find-if-digit-game-can-be-won](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3483-unique-3-digit-even-numbers](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3701-compute-alternating-sum](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/3701-compute-alternating-sum) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3483-unique-3-digit-even-numbers](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/3483-unique-3-digit-even-numbers) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Recursion
 |  |
@@ -262,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/3536-maximum-product-of-two-digits) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3992-rearrange-string-to-avoid-character-pair](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/3992-rearrange-string-to-avoid-character-pair) |
 ## Bit Manipulation
