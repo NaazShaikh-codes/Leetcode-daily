@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0678-valid-parenthesis-string) |
 | [0709-to-lower-case](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0771-jewels-and-stones) |
+| [0804-unique-morse-code-words](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0804-unique-morse-code-words) |
 | [0824-goat-latin](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0824-goat-latin) |
 | [0856-score-of-parentheses](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0856-score-of-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/1021-remove-outermost-parentheses) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0739-daily-temperatures) |
 | [0746-min-cost-climbing-stairs](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0746-min-cost-climbing-stairs) |
+| [0804-unique-morse-code-words](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0804-unique-morse-code-words) |
 | [0867-transpose-matrix](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0867-transpose-matrix) |
 | [0905-sort-array-by-parity](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0905-sort-array-by-parity) |
 | [1051-height-checker](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/1051-height-checker) |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0389-find-the-difference) |
 | [0575-distribute-candies](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0575-distribute-candies) |
 | [0771-jewels-and-stones](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0771-jewels-and-stones) |
+| [0804-unique-morse-code-words](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0804-unique-morse-code-words) |
 | [1207-unique-number-of-occurrences](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/1207-unique-number-of-occurrences) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/1512-number-of-good-pairs) |
