@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1051-height-checker](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/1051-height-checker) |
 | [1207-unique-number-of-occurrences](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/1207-unique-number-of-occurrences) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1389-create-target-array-in-the-given-order](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/1389-create-target-array-in-the-given-order) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0682-baseball-game) |
 | [0867-transpose-matrix](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0867-transpose-matrix) |
+| [1389-create-target-array-in-the-given-order](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/1389-create-target-array-in-the-given-order) |
 | [1929-concatenation-of-array](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/1929-concatenation-of-array) |
 | [2810-faulty-keyboard](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/2810-faulty-keyboard) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/3069-distribute-elements-into-two-arrays-i) |
