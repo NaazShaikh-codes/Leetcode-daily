@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/1512-number-of-good-pairs) |
 | [1748-sum-of-unique-elements](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/1748-sum-of-unique-elements) |
@@ -271,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0905-sort-array-by-parity) |
 | [1051-height-checker](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/1051-height-checker) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/3536-maximum-product-of-two-digits) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -420,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0264-ugly-number-ii](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0264-ugly-number-ii) |
 | [0347-top-k-frequent-elements](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0347-top-k-frequent-elements) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Memoization
 |  |
 | ------- |
