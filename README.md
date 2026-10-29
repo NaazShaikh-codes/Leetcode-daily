@@ -222,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/1401-circle-and-rectangle-overlapping) |
+| [1486-xor-operation-in-an-array](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/1486-xor-operation-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/1512-number-of-good-pairs) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [2235-add-two-integers](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/2235-add-two-integers) |
@@ -296,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0389-find-the-difference) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1486-xor-operation-in-an-array](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/1486-xor-operation-in-an-array) |
 ## Binary Search
 |  |
 | ------- |
