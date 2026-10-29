@@ -220,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0836-rectangle-overlap) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1512-number-of-good-pairs](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/1512-number-of-good-pairs) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/1523-count-odd-numbers-in-an-interval-range) |
@@ -293,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0338-counting-bits) |
 | [0389-find-the-difference](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0389-find-the-difference) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 ## Binary Search
 |  |
