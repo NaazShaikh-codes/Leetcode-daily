@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0739-daily-temperatures) |
 | [0746-min-cost-climbing-stairs](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0746-min-cost-climbing-stairs) |
 | [0804-unique-morse-code-words](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0804-unique-morse-code-words) |
+| [0812-largest-triangle-area](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0812-largest-triangle-area) |
 | [0867-transpose-matrix](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0867-transpose-matrix) |
 | [0905-sort-array-by-parity](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0905-sort-array-by-parity) |
 | [1051-height-checker](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/1051-height-checker) |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0415-add-strings) |
 | [0509-fibonacci-number](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0628-maximum-product-of-three-numbers) |
+| [0812-largest-triangle-area](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0812-largest-triangle-area) |
 | [0836-rectangle-overlap](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0836-rectangle-overlap) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -241,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [0812-largest-triangle-area](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0812-largest-triangle-area) |
 | [0836-rectangle-overlap](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/1401-circle-and-rectangle-overlapping) |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/2481-minimum-cuts-to-divide-a-circle) |
@@ -506,4 +509,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Polygons
+|  |
+| ------- |
+| [0812-largest-triangle-area](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0812-largest-triangle-area) |
 <!---LeetCode Topics End-->
