@@ -528,4 +528,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0075-sort-colors) |
+## Graph Theory
+|  |
+| ------- |
+| [1791-find-center-of-star-graph](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/1791-find-center-of-star-graph) |
 <!---LeetCode Topics End-->
