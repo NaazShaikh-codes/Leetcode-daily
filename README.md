@@ -233,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0812-largest-triangle-area](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0812-largest-triangle-area) |
 | [0836-rectangle-overlap](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0836-rectangle-overlap) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1323-maximum-69-number](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/1323-maximum-69-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1486-xor-operation-in-an-array](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/1486-xor-operation-in-an-array) |
@@ -447,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0135-candy) |
 | [0678-valid-parenthesis-string](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0678-valid-parenthesis-string) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/1221-split-a-string-in-balanced-strings) |
+| [1323-maximum-69-number](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/1323-maximum-69-number) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Heap (Priority Queue)
