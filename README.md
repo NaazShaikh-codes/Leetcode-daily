@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1816-truncate-sentence](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/1816-truncate-sentence) |
 | [1929-concatenation-of-array](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/1929-concatenation-of-array) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2404-most-frequent-even-element](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/2404-most-frequent-even-element) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/1512-number-of-good-pairs) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1688-count-of-matches-in-tournament](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/1688-count-of-matches-in-tournament) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2235-add-two-integers](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/2235-add-two-integers) |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/3232-find-if-digit-game-can-be-won) |
@@ -282,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0258-add-digits) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Sorting
 |  |
 | ------- |
@@ -543,4 +546,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1791-find-center-of-star-graph](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/1791-find-center-of-star-graph) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/1979-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
