@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1816-truncate-sentence](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/1816-truncate-sentence) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [2810-faulty-keyboard](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/2810-faulty-keyboard) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2404-most-frequent-even-element](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/2404-most-frequent-even-element) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
