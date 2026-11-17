@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1389-create-target-array-in-the-given-order](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/1389-create-target-array-in-the-given-order) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0884-uncommon-words-from-two-sentences](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/0884-uncommon-words-from-two-sentences) |
 | [1207-unique-number-of-occurrences](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/1207-unique-number-of-occurrences) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/1512-number-of-good-pairs) |
 | [1748-sum-of-unique-elements](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/1748-sum-of-unique-elements) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -413,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1221-split-a-string-in-balanced-strings](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/1512-number-of-good-pairs) |
 | [1748-sum-of-unique-elements](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/1748-sum-of-unique-elements) |
 | [2404-most-frequent-even-element](https://github.com/naazzzhehe88-glitch/Leetcode-daily/tree/master/2404-most-frequent-even-element) |
